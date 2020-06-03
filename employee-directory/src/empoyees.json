@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Miley Powers",
+      "image":
+        "https://placekitten.com/408/287",
+      "occupation": "Front End Dev",
+      "email": "mileymiles@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Bob Segura",
+      "image":
+        "https://placekitten.com/96/139",
+      "occupation": "Manager",
+      "email": "bigbob@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Joey Danson",
+      "image":
+        "https://placekitten.com/200/139",
+      "occupation": "Back End Dev",
+      "email": "milkislife@gmail.com"
+    }
+  ]
+  
